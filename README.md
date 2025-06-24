@@ -1,4 +1,4 @@
-# Notes App – Vertex UI Technical Take-Home
+# Notes App – Vert UI Technical Take-Home
 
 ##  Features
 Create, Read, Update, and Delete notes
